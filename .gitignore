@@ -1,0 +1,47 @@
+# Python 
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+
+# mac OS System files 
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# logs
+*.log
+
+# video files (privacy protection)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# general data files 
+*.csv
+*.npy
+*.npz
+*.pickle
+*.pkl
+
+# figres or temp outputs 
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# IDE / editor 
+.vscode/
+.idea/
